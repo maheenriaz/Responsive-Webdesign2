@@ -1,0 +1,98 @@
+body
+{
+    margin:0px;
+    padding: 0px;
+}
+#right 
+{
+    float: right;
+    
+}
+#WebIntuitive
+{
+    font-family: magneto;
+    font-size: 40px;
+    color: rgb(160, 42, 160)
+}
+#email
+{
+    font-size: 13px;
+}
+#contribute
+{
+    float:left;
+    margin-top: 0px;
+}
+#company
+{
+    width: 0px;
+    height: 0px;
+}
+.navbar-default
+{
+    margin-top: 0px;
+    margin-top: -40px;
+    background-color: rgb(153, 42, 153) ;
+    
+}
+.nav.navbar-nav li a
+{
+    color:whitesmoke;
+}
+
+#services
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: rgb(117, 107, 107);
+}
+#purple
+{
+    margin-left: 140px;
+    
+   
+    height: auto;
+}
+.img-responsive { 
+    width:30%;
+}
+#p1
+{
+    text-align: center;
+    font-size: 13px;
+}
+#digital
+{
+    text-align: center;
+}
+#test
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: rgb(117, 107, 107);
+}
+
+#clients
+{
+    margin-left: 140px;
+    
+   
+    height: auto;
+}
+#back
+{
+    background-color: rgb(97, 89, 89);
+}
+#black
+{
+    color: aliceblue;
+}
+#map
+{
+    width: 290px;
+    height: 170px;
+}
+
+  
